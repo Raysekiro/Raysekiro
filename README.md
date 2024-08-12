@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Raysekiro
-- 👀 I’m interested in matlabmapping
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+About Me
+I am a researcher with a focus on Computer Vision and Physics-Informed Neural Networks (PINNs). My special interest lies in applying these technologies to the prevention of geological disasters. My aim is to integrate state-of-the-art computational techniques with real-world challenges to improve predictions and mitigation strategies for natural hazards.
 
 <!---
 Raysekiro/Raysekiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
